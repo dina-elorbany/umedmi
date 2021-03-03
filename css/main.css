@@ -1,3 +1,6 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 /* Menu-bar */
 .nav-link{
@@ -17,7 +20,7 @@
 }
 #nav-img {
     padding-left: 40px;
-    padding-top: 30px;
+    padding-top: 25px;
 }
 
 /* section-1 */
@@ -121,6 +124,8 @@
     font-weight: 550;
     margin-bottom: 20px;
 }
+
+/* numbers */
 .section-4-225 {
     text-align: center;
     padding-bottom: 70px;
@@ -180,7 +185,7 @@
     min-height: 20rem; /* layout hack */
     background: #fff center center no-repeat;
     background-size: cover;
-    filter: blur(3px); /* blur the lowres image */
+    filter: blur(3px); /*blur the lowres image*/
 }
 .card-image img {
     display: block;
@@ -256,7 +261,6 @@
     font-size: 20px;
     font-weight: 550;
     text-align: center;
-    
 }
 
 /* Section-8 */
